@@ -1,0 +1,6 @@
+build/
+dist/
+node_modules/
+public/charting_library/
+public/datafeeds/
+static/
